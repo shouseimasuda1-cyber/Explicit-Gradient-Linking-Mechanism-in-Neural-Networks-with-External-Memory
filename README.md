@@ -22,7 +22,7 @@
 
 関連分野: Deep Learning, External Memory, Neural Turing Machines (NTM), Differentiable Neural Computers (DNC), Gradient Flow Analysis
 
-論文PDF: [https://github.com/shouseimasuda1-cyber/Explicit-Gradient-Linking-Mechanism-in-Neural-Networks-with-External-Memory/blob/main/ExplicitGradientLinking/paper/Explicit_Gradient_Linking_Mechanism_in_Neural_Networks_with_External_Memory.pdf]
+論文PDF: [[...](https://github.com/shouseimasuda1-cyber/Explicit-Gradient-Linking-Mechanism-in-Neural-Networks-with-External-Memory/blob/main/ExplicitGradientLinking/paper/Explicit_Gradient_Linking_Mechanism_in_Neural_Networks_with_External_Memory.pdf)]
 
 arXiv投稿予定: 論文に問題がなく推薦者承認後に投稿予定
 
