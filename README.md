@@ -44,7 +44,7 @@ Matplotlib
 
 2.以下のコマンドで学習を開始します。
 
->>$python train_copy_task.py
+```bash python train_copy_task.py ```
 
 
 3.学習の進行状況と、勾配リンクあり/なしの損失曲線の比較グラフが学習完了後、出力されます。
